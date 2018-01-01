@@ -1,0 +1,1 @@
+floyd run --data cstahl12/datasets/nmr86/1:/input --mode jupyter --env keras --cpu2
